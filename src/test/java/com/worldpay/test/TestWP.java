@@ -36,10 +36,6 @@ public class TestWP {
     }
 
 
-
-
-
-
     @Test
     public void testElementsPresents() throws InterruptedException{
         driver.get("http://www.google.com");

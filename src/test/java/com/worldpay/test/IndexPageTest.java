@@ -33,6 +33,7 @@ public class IndexPageTest {
        WebDriver driver;
        IndexPage IndexPage;
 
+
     @Before
     public void setUp() throws Exception {
         ChromeOptions options = new ChromeOptions();
