@@ -26,7 +26,7 @@ public class TestWP2 {
         driver = new ChromeDriver(options);
         //driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 
-        ChromeOptions options = new ChromeOptions();
+        options = new ChromeOptions();
         driver = new ChromeDriver(options);
     }
 

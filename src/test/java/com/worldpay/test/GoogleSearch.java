@@ -1,5 +1,6 @@
 package com.worldpay.test;
 
+import org.junit.After;
 import org.junit.Test;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;

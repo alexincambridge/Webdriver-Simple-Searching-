@@ -62,7 +62,7 @@ public class IndexPageTest {
 
     @After
     public void tearDown() throws Exception {
-        //driver.quit();
+        driver.quit();
     }
 
 }
